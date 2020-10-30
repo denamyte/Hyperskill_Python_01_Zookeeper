@@ -6,9 +6,6 @@ files:
     ost = Happy
     print(type(0st))
   learner_created: false
-- name: test.py
-  visible: true
-  learner_created: true
 feedback_link: https://hyperskill.org/learn/step/11111
 status: Solved
 feedback:
